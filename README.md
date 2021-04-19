@@ -1,3 +1,0 @@
-# Folder_01
-Primera carga de archivos
-Explicaciones...
